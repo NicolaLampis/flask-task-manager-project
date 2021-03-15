@@ -4,8 +4,8 @@ from flask import (
     request, session, url_for)
 from flask_pymongo import PyMongo
 from bson.objectid import ObjectId
-if os.path.exists("env.py"):
-    import env
+if os.path.exists("environmental.py"):
+    import environmental
 
 
 app = Flask(__name__)
