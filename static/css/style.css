@@ -8,6 +8,14 @@ nav, #mobile-demo {
     font-family: "Poppins", Arial, sans-serif;
 }
 
+.nav-wrapper {
+    padding-left: 15px;
+}
+
 .text-shadow {
-    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+}
+
+.flashes h4 {
+    line-height: 2;
 }
