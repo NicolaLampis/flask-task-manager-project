@@ -19,3 +19,7 @@ nav, #mobile-demo {
 .flashes h4 {
     line-height: 2;
 }
+
+.collapsible-header {
+    font-size: large;
+}
