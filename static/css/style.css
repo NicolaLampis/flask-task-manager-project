@@ -23,3 +23,8 @@ nav, #mobile-demo {
 .collapsible-header {
     font-size: large;
 }
+
+h3.title-add-task {
+    color: #b8c1c7;
+    font-family: "Poppins", Arial, sans-serif;
+}
