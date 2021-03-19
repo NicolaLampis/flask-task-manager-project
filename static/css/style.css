@@ -24,8 +24,8 @@ nav, #mobile-demo {
     font-size: large;
 }
 
-h3.title-add-task {
+h4.title-task {
     color: #eceff1;
     font-family: "Poppins", Arial, sans-serif;
-    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
+    text-shadow: 2px 2px 12px rgba(0, 0, 0, 1);
 }
