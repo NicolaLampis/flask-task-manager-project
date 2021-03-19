@@ -25,6 +25,7 @@ nav, #mobile-demo {
 }
 
 h3.title-add-task {
-    color: #b8c1c7;
+    color: #eceff1;
     font-family: "Poppins", Arial, sans-serif;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
 }
